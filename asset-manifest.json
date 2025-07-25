@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vignesh-kanna/React_Router.git/static/css/main.f855e6bc.css",
+    "main.js": "/Vignesh-kanna/React_Router.git/static/js/main.e8509976.js",
+    "static/js/453.96453769.chunk.js": "/Vignesh-kanna/React_Router.git/static/js/453.96453769.chunk.js",
+    "index.html": "/Vignesh-kanna/React_Router.git/index.html",
+    "main.f855e6bc.css.map": "/Vignesh-kanna/React_Router.git/static/css/main.f855e6bc.css.map",
+    "main.e8509976.js.map": "/Vignesh-kanna/React_Router.git/static/js/main.e8509976.js.map",
+    "453.96453769.chunk.js.map": "/Vignesh-kanna/React_Router.git/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e8509976.js"
+  ]
+}
